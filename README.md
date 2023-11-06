@@ -1,2 +1,3 @@
-# 2023_GoogleML_Kaggle
-Kaggle competition, Korean Hate Speech Detection
+# 2023 GoogleML Kaggle
+## Kaggle competition, Korean Hate Speech Detection
+https://www.kaggle.com/competitions/korean-hate-speech-detection/overview
